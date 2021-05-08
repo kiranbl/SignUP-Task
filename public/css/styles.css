@@ -1,0 +1,58 @@
+body{
+    background-color:#E4DFDA;
+ 
+}
+.heading{
+   margin-top: 3%;
+   margin-bottom: 2%
+   
+}
+
+.signinForm{
+padding: 20px;
+border-radius:5px;
+box-shadow: 0px 0px 10px 0px;
+align-items: center;
+}
+
+.inputField{
+    outline: none;
+}
+.form-control:focus {
+    border-color: #B8873D;
+    box-shadow: 0px 1px 1px #B8873D  ;
+}
+
+
+.subbutton
+{
+    width:70%;
+    color:#E4DFDA ;
+    background-color: #231F1A;
+    height: 50px;
+    outline: none;
+}
+.subbutton:hover{
+    color: #231F1A;
+    background-color: #E4DFDA ;
+    border-color: #B8873D;
+    box-shadow: 0px 1px 1px #B8873D  ;
+}
+
+.linksection
+{
+    margin-top: 10px;
+    text-decoration: none;
+    color:#050609;
+}
+.linksection:hover{
+    color: #B8873D;
+}
+
+
+.status{
+    padding: 20px;
+    border-radius:10px;
+    align-items: center;
+    margin-top: 50%;
+}
